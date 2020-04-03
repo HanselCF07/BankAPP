@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bank</string>
+
+    <string name="name">Name:</string>
+    <string name="account_number">Account Number:</string>
+    <string name="account_type">Account Type:</string>
+    <string name="balance">Balance:</string>
+
+    <string name="edit_name"></string>
+    <string name="edit_account_numer"></string>
+
+    <string name="tittle">Add Bank accounts</string>
+    <string name="current_account">Current Account</string>
+    <string name="savings_account">Saving Account</string>
+
+    <string name="button_send">Add Account</string>
+</resources>
